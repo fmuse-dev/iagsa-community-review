@@ -11,3 +11,4 @@ identifiers:
     description: "Research manuscript and frozen technical review package"
 abstract: "Navigation, review guidance and archive preparation tooling for the Integrated AI Governance and Safety Architecture proposal. Scientific source, protocols and retained results are provided in the separate Zenodo technical package."
 url: "https://github.com/fmuse-dev/iagsa-community-review"
+license: MIT
