@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.zip
+review-input/
+review-output/
+.env
+.env.*
+credentials*.json
+*service-account*.json

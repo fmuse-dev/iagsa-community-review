@@ -1,0 +1,22 @@
+name: Architecture review or proposed extension
+description: Challenge a contract or propose an improvement to the integrated architecture
+body:
+  - type: textarea
+    id: contract
+    attributes:
+      label: Domain, gate or requirement
+      description: Identify the exact claim, trust assumption or interface involved.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Criticism or proposed change
+      description: Explain the practical consequence, supporting sources and how the improvement preserves or clarifies the end-to-end proposal.
+    validations:
+      required: true
+  - type: textarea
+    id: evaluation
+    attributes:
+      label: Evaluation needed
+      description: Specify an observable oracle, negative control and new assumptions. Mark untested ideas explicitly.

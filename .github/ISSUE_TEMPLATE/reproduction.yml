@@ -1,0 +1,24 @@
+name: Reproduction or counterexample
+description: Report an independent execution, incomplete run or boundary failure
+body:
+  - type: textarea
+    id: identity
+    attributes:
+      label: Artifact and protocol identity
+      description: Archive SHA-256, source revision, profile/case, and whether this is an exact reproduction or extension.
+    validations:
+      required: true
+  - type: textarea
+    id: execution
+    attributes:
+      label: Environment and command
+      description: OS, Python, dependencies, privilege preflight, exact command and exit status. Never include credentials.
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Raw observations and interpretation
+      description: Expected and observed resource state, evidence comparison, raw output, incomplete cases and adverse outcomes. Distinguish protocol completion from prevention.
+    validations:
+      required: true
