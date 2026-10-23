@@ -1,0 +1,48 @@
+IAGSA TECHNICAL RELEASE — SOFTWARE LICENSE GRANT
+Effective: 23 October 2026
+Copyright holder: Fardowsa Muse
+
+Applies to original research software and its accompanying test/protocol
+documentation authored by Fardowsa Muse and distributed in:
+IAGSA_Technical_Review_Package.zip
+Zenodo record: https://doi.org/10.5281/zenodo.23595879
+Archive size: 55,475,922 bytes
+Archive SHA-256:
+4cff58336a0a2c01eb5be1dbf69ca393e0b790609099dcdaad9a06e8fc54db48
+
+This includes original source profiles, author-created runners and verification
+tools, and original research code/documentation retained in nested historical
+technical archives. Third-party code, dependencies, datasets, standards and
+referenced publications retain their respective terms and are not relicensed.
+
+For the author's original software and accompanying test/protocol documentation
+identified above, this grant supersedes historical statements in the archive
+that software licensing has not yet been selected. Those earlier statements
+remain preserved as historical packaging records. This grant changes permissions,
+not scientific source bytes, protocols, results, execution status or evidence.
+
+The separate research manuscript PDF is not covered by this software grant.
+This notice does not assert ownership of third-party material or grant rights
+the copyright holder does not hold. Retain applicable third-party notices.
+
+MIT License
+
+Copyright (c) 2026 Fardowsa Muse
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

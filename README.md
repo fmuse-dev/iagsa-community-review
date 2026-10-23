@@ -14,7 +14,7 @@ IAGSA connects ten functional domains: institutional purpose, lifecycle evaluati
 | Inspect or reproduce the experiments | [Reviewer guide](docs/REVIEWER_GUIDE.md), then `START_HERE.md` inside the technical ZIP |
 | Understand what the findings establish | [Evidence scope and interpretation](docs/EVIDENCE_SCOPE.md) |
 | Report a counterexample or propose an extension | [Contribution guide](CONTRIBUTING.md) and issue templates |
-| Reuse or redistribute material | [MIT License](LICENSE) and [scope](LICENSE_STATUS.md); separate Zenodo artifacts retain their own terms |
+| Reuse or redistribute material | [MIT License](LICENSE) and [scope](LICENSE_STATUS.md); [technical-code grant](LICENSE_TECHNICAL_RELEASE.txt); third-party terms remain applicable |
 
 ## What this companion provides
 
@@ -29,3 +29,7 @@ Experiments demonstrate feasibility of the tested technical composition and expo
 The proposal does not claim demonstrated production readiness, institutional legitimacy, effective human judgment, or comprehensive cross-provider enforcement. These boundaries specify the evidence required to develop the architecture further; they do not discard the completed technical experiments.
 
 Please preserve adverse and incomplete observations when extending the work. Contributions should identify the precise contract, scenario, source revision, resource-state observation and evidence comparison being challenged.
+
+## Technical package reuse
+
+The author's original research software and accompanying test/protocol documentation in the frozen technical ZIP are licensed under MIT through [the archive-specific grant](LICENSE_TECHNICAL_RELEASE.txt). Preserve that notice alongside downloaded code. It supersedes the archive's earlier license-pending statements for the author's original material; third-party material retains its own terms. The experimental source, recorded results and archive bytes are unchanged.
