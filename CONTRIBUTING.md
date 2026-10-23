@@ -10,4 +10,4 @@ For proposed changes, distinguish a correction to the existing protocol from a n
 
 Never submit API keys, access tokens, private keys, customer data or private cloud logs. Use synthetic examples. See SECURITY.md for sensitive reports.
 
-Software licensing and contributor permissions remain unresolved; see LICENSE_STATUS.md. Until those terms are finalized, use discussion issues rather than submitting substantive code for incorporation. There is no contributor license agreement or implied patent license in this repository.
+Contributions to this companion are submitted under its MIT License. Submit only material you have the right to contribute, identify third-party sources and preserve their notices. There is no separate contributor license agreement. The linked Zenodo artifacts retain their own terms; see LICENSE_STATUS.md.

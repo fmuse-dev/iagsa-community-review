@@ -14,7 +14,7 @@ IAGSA connects ten functional domains: institutional purpose, lifecycle evaluati
 | Inspect or reproduce the experiments | [Reviewer guide](docs/REVIEWER_GUIDE.md), then `START_HERE.md` inside the technical ZIP |
 | Understand what the findings establish | [Evidence scope and interpretation](docs/EVIDENCE_SCOPE.md) |
 | Report a counterexample or propose an extension | [Contribution guide](CONTRIBUTING.md) and issue templates |
-| Reuse or redistribute material | [License status](LICENSE_STATUS.md); the software license remains to be selected |
+| Reuse or redistribute material | [MIT License](LICENSE) and [scope](LICENSE_STATUS.md); separate Zenodo artifacts retain their own terms |
 
 ## What this companion provides
 

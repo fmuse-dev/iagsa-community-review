@@ -1,7 +1,7 @@
-# License status — decision pending
+# License scope
 
-No software license has yet been selected for this companion or the research code. Public availability does not itself grant unrestricted reuse, modification, redistribution, sublicensing or patent rights. Do not describe this repository as OSI-licensed open-source software until the owner has selected and applied an appropriate license.
+Original code and accompanying documentation in this companion repository are licensed under the MIT License; see LICENSE. No purchase, registration or individual permission request is required. The copyright and license notice must be retained in copies or substantial portions.
 
-The Zenodo record's metadata license must be checked against the actual material and rights held. A documentation or manuscript license must not silently be treated as a software or patent license. Third-party code, libraries, data and publications retain their own terms.
+This repository license does not relicense the separate manuscript, the linked frozen Zenodo technical archive, third-party software, dependencies, data or referenced publications. Their applicable terms must be checked separately. In particular, the historical technical archive's license notice is not changed by this repository commit.
 
-Before public launch, confirm separate terms for original software and original documentation, third-party provenance and contributor permissions. This notice makes no license selection on the author's behalf.
+This license does not establish that every referenced architecture component or third-party implementation is available under MIT. Scientific attribution and artifact/protocol identification remain important when reporting research.
